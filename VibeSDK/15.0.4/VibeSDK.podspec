@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
 
     s.homepage = "https://www.axonvibe.com/"
 
-    s.source = { http: "https://axonvibe.jfrog.io/axonvibe/cocoapods-local/VibeSDK/#{s.version}/VibeSDK.tar.gz" }
+    s.source = { http: "https://axonvibe.jfrog.io/axonvibe/ios-sdk-release/VibeSDK/#{s.version}/VibeSDK.tar.gz" }
 
     s.framework = "UIKit"
     s.framework = "CoreLocation"
