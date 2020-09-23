@@ -25,6 +25,4 @@ Pod::Spec.new do |s|
         ss.ios.vendored_frameworks = 'VibeSDK.framework'
     end
 
-    s.swift_version = "5.1"
-
 end
